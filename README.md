@@ -68,5 +68,5 @@ This project is still a work in progress and doesn't currently have all of the i
 - Fix errors in game state such as illegal raises and negative stack sizes
 - Fully implement and train MCCFR algorithm
 - Add menu
-- Improve GUI and make features clearer
+- Improve GUI and make actions clearer
 - General bug fixing
