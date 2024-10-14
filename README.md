@@ -4,6 +4,8 @@ This PokerBot, named "Jester," plays heads-up poker against a user player, utili
 
 ![Alt text](git_pic.png)
 
+Poker is an imperfect information game that involves probabilistic reasoning, bluffing, reading opponents, and is fundamentally a "human game." Creating an AI that can play against humans is an interesting look into how AI handles imperfect information game states and ponders the question of whether AI can develop a strategy to beat humans at poker.
+
 ## How to Use
 
 ### Prerequisites
