@@ -4,7 +4,6 @@ from PIL import Image, ImageTk, ImageFont, ImageOps
 import PokerGame
 import Betting
 import BotDecisions
-#import time
 
 class GameWindow():
     
